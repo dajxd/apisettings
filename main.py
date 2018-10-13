@@ -5,9 +5,6 @@ from tkSimpleDialog import askstring
 
 root = Tk()
 
-##################################################################
-##TODO: write classlist to data.api after the new item is added!##
-##################################################################
 datadict = {}
 group = 0
 groupc = 0
